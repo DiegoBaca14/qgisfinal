@@ -1,0 +1,1 @@
+var json_Predio_5 = {"type":"FeatureCollection","name":"Predio_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"latitude":19.42508,"longitude":-99.15667,"label":null},"geometry":{"type":"Point","coordinates":[-99.15667,19.425077]}}]}
